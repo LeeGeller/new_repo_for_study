@@ -1,5 +1,4 @@
 def get_title_words(text):
-    """Func do it bigger"""
     return text.upper()
 
 
