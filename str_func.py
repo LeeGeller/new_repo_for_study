@@ -1,8 +1,8 @@
-def get_title_words(text):
+def get_upper_words(text):
     """Func do it bigger"""
     return text.upper()
 
 
-def get_first_title(text):
+def get_title_word(text):
     """Func do first word BIG"""
     return text.title()
